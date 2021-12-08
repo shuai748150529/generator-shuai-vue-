@@ -2,7 +2,7 @@
   "dependencies": {
     "yeoman-generator": "^5.4.2"
   },
-  "name": "generator-mysample",
+  "name": "generator-shuai-vue",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
